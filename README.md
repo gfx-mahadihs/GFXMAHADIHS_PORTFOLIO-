@@ -1,8 +1,8 @@
-# ✦ GFX_MAHADIHS — Creative Artsy Portfolio
+# ✦ GFX_MAHADIHS —  Portfolio
 
 > A playful, neo-brutalist scrapbook portfolio engineered for **Gfx_Mahadihs (Mahadi Hasan)** — Brand Identity Designer, Motion & 3D Artist, and Visual Technologist.
 
-Inspired by the authentic **"Crayon" / "Creative Artsy"** aesthetic, featuring hand-drawn doodle borders, draggable sticker badges, polaroids with masking tape, kinetic marquee ribbons, and rich interactive case studies.
+Inspired by the authentic aesthetic, featuring hand-drawn doodle borders, draggable sticker badges, polaroids with masking tape, kinetic marquee ribbons, and rich interactive case studies.
 
 ---
 
